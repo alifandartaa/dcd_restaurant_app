@@ -1,6 +1,6 @@
 # Restaurant App
 
-<img src="https://user-images.githubusercontent.com/44419939/199880398-8d46c761-b1a2-4f36-97a7-bbe7eddf61e3.png" alt="Mockup" class="center" width="500" height="900">
+<img src="https://user-images.githubusercontent.com/44419939/199880398-8d46c761-b1a2-4f36-97a7-bbe7eddf61e3.png" alt="Mockup" class="center" width="600" height="680">
 
 A simple Flutter project about mobile app to help user find popular restaurant. This project idea come from Dicoding Indonesia course.
 
